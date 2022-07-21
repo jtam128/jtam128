@@ -1,7 +1,7 @@
-👋 Hi there! I am Jessica Tam, a web developer.
+👋 Hi there! I am Jessica Tam, an Accountant turned Junior Software Engineer. I realized the interest I had in Software Engineering, which led me to attend Thinkful's Software Engineering program.
 
-👀 I enjoy getting to see a product come to life from the lines of code that I write and making that product pleasing to the eye in the process.
+💗 I am passionate about creating applications that will have a lasting impact and functional purpose for users.
 
-✨ I’m looking to collaborate on exciting web projects and open source development.
+👀 I’m looking to collaborate on exciting web projects and open source development.
 
-📫 How to reach me ... You can email me [here](mailto:jessica.tam128@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/jtam128/).
+📫 Ways to reach me: [email](mailto:jessica.tam128@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jtam128/)
