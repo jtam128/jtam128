@@ -6,4 +6,4 @@
 
 📫 Ways to reach me: [email](mailto:jessica.tam128@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jtam128/)
 
-✨ Additional things: [Check out my portfolio!](https://jtam-portfolio.vercel.app/)
+✨ Check Out my Most Recent Project - [My Portfolio Website](https://jtam-portfolio.vercel.app/)
