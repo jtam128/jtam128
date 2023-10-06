@@ -1,9 +1,4 @@
-👋 Hi there! I am Jessica Tam, an Accountant turned Fullstack Developer. I realized the interest I had in Software Engineering, which led me to attend Thinkful's Software Engineering program.
-
-💗 I am passionate about creating applications that will have a lasting impact and functional purpose for users.
-
-👀 I’m looking to collaborate on exciting applications and open source development.
+👋 Hi there! I am Jessica Tam, a self-taught Web Developer with a background in Accounting. I enjoy creating applications that are pleasing to the eye while being inclusive and user-friendly. I strive for work that challenges me and allows me to contribute towards creating applications with a positive impact on users, while in a collaborative environment.
 
 📫 Ways to reach me: [email](mailto:jessica.tam128@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jtam128/)
 
-✨ Check Out my Most Recent Project - [My Portfolio Website](https://jtam-portfolio.vercel.app/)
