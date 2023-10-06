@@ -2,3 +2,5 @@
 
 📫 Ways to reach me: [email](mailto:jessica.tam128@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jtam128/)
 
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,figma,github)](https://skillicons.dev)
